@@ -1,0 +1,7 @@
+#card::before {
+  content: "";
+  position: absolute;
+  inset: -3px;
+  /* background: conic-gradient(from 0deg, red, green); */
+  z-index: -1;
+}

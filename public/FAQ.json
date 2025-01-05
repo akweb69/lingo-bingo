@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "What is LingoBingo?",
+      "answer": "LingoBingo is an interactive platform designed to make learning Arabic vocabulary easy and engaging through gamified lessons and personalized plans."
+    },
+    {
+      "id": 2,
+      "question": "Who can benefit from using LingoBingo?",
+      "answer": "Anyone who wants to learn Arabic vocabulary, from beginners to advanced learners, can benefit from LingoBingo's interactive features."
+    },
+    {
+      "id": 3,
+      "question": "Are the lessons suitable for beginners?",
+      "answer": "Yes, LingoBingo offers lessons tailored for beginners as well as intermediate and advanced learners."
+    },
+    {
+      "id": 4,
+      "question": "Is there a free trial available?",
+      "answer": "Yes, LingoBingo offers a 7-day free trial for new users to explore the platform and its features."
+    },
+    {
+      "id": 5,
+      "question": "How can I track my progress?",
+      "answer": "The platform includes a progress tracker that displays your achievements, completed lessons, and earned rewards."
+    },
+    {
+      "id": 6,
+      "question": "What devices can I use LingoBingo on?",
+      "answer": "LingoBingo is accessible on desktops, tablets, and mobile devices with a responsive design for seamless learning."
+    },
+    {
+      "id": 7,
+      "question": "Are there live tutor sessions available?",
+      "answer": "Yes, Pro and Premium plans include live tutor sessions to provide personalized guidance and support."
+    },
+    {
+      "id": 8,
+      "question": "What payment methods are accepted?",
+      "answer": "We accept all major credit and debit cards, PayPal, and some local payment options depending on your region."
+    },
+    {
+      "id": 9,
+      "question": "Can I cancel my subscription at any time?",
+      "answer": "Yes, you can cancel your subscription at any time. Your access will continue until the end of your billing cycle."
+    },
+    {
+      "id": 10,
+      "question": "Is there support for learners with disabilities?",
+      "answer": "LingoBingo is designed to be accessible, with features like text-to-speech and visual aids to assist learners with disabilities."
+    }
+  ]
+  

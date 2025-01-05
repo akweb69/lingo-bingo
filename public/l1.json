@@ -1,0 +1,27 @@
+[
+    {
+      "id": "001",
+      "title": "Learn Arabic Alphabet Part - 01",
+      "video_url": "https://www.youtube.com/embed/yqxZPBrhAdc?si=m1fZdBYPmpjaOb8J",
+      "tutorial_number": "01"
+    },
+    {
+      "id": "002",
+      "title": "Learn Arabic Alphabet Part - 02",
+      "video_url": "https://www.youtube.com/embed/lAn-MtGXMBg?si=-aOov9qjL9LHjhif",
+      "tutorial_number": "02"
+    },
+    {
+      "id": "003",
+      "title": "Learn Arabic Alphabet Part - 03",
+      "video_url": "https://www.youtube.com/embed/PuxV9iBrX_g?si=qP79VbFUd6Z9wSXc",
+      "tutorial_number": "03"
+    },
+    {
+      "id": "004",
+      "title": "Learn Arabic Alphabet Part - 04",
+      "video_url": "https://www.youtube.com/embed/5Lo4pgdMyb4?si=qDMojOZFLXli2F_Y",
+      "tutorial_number": "04"
+    }
+  ]
+  
