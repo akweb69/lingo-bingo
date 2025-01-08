@@ -64,7 +64,11 @@ Check out the live version of the application here:
 
 ### How to Run the Project Locally
 
-1. **Clone the repository**:
+To run the **Lingo Bingo** project on your local machine, follow these steps:
+
+1. **Clone the repository:**
+
+   Start by cloning the project repository to your local machine using Git. Open your terminal (or Git Bash) and run:
+
    ```bash
    git clone https://github.com/yourusername/lingo-bingo.git
-   cd lingo-bingo
