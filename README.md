@@ -19,7 +19,6 @@ Check out the live version of the application here:
 
 - **Interactive Statistics Dashboard**  
   Visualize your progress with beautifully animated charts and graphs, tracking:
-
   - Words learned daily.
   - Learning trends over weeks.
   - Mastery of different topics like verbs, nouns, and phrases.
@@ -51,3 +50,21 @@ Check out the live version of the application here:
 - **Deployment**: Hosted on [Netlify](https://netlify.com).
 
 ---
+
+### Dependencies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for fast and easy UI development.
+- **Chart.js**: JavaScript library for creating animated and interactive charts.
+- **Framer Motion**: Library for animations in React applications.
+- **React Router**: For seamless navigation between pages.
+- **Axios**: To handle HTTP requests (if applicable for future features).
+
+---
+
+### How to Run the Project Locally
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/lingo-bingo.git
+   cd lingo-bingo
