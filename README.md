@@ -62,6 +62,15 @@ Check out the live version of the application here:
 
 ---
 
+### DevDependencies Used
+
+- **Tailwind CSS**: To help with utility-first design.
+- **PostCSS**: Used for processing Tailwind CSS.
+- **Autoprefixer**: Ensures compatibility with multiple browsers by adding necessary vendor prefixes to CSS.
+- **react-scripts**: Scripts for development, building, and testing the app.
+
+---
+
 ### How to Run the Project Locally
 
 To run the **Lingo Bingo** project on your local machine, follow these steps:
