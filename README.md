@@ -2,6 +2,12 @@
 
 ## Lingo Bingo: A Vocabulary Learning Application
 
+## Preview:
+
+![LuxeStay Preview](https://i.ibb.co/k4zNssw/Screenshot-9.png)
+
+---
+
 ### Project Theme
 
 Lingo Bingo is a fun and interactive language learning application designed to help users expand their vocabulary and improve communication skills in multiple languages. Learning a new language can be challenging, especially when it comes to retaining vocabulary, but Lingo Bingo makes the process engaging, effective, and enjoyable.
